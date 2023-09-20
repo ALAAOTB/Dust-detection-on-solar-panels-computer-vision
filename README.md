@@ -1,6 +1,7 @@
 # Dust-detection-on-solar-panels-computer-vision
 # Overview 
 The project is one of the final requirements for the SDAIA AI and Data Bootcamp. It specifically focused on the classification of solar panels and the examination of their cleanliness.
+
 Done by : Alaa Alotaibi - Leen Alsogaihi
 
 Supervisor: Mohammad Almubaddel
