@@ -1,6 +1,8 @@
 # Dust-detection-on-solar-panels-computer-vision
 # Overview 
 The project is one of the final requirements for the SDAIA AI and Data Bootcamp. It specifically focused on the classification of solar panels and the examination of their cleanliness.
+Done by : Alaa Alotaibi - Leen Alsogaihi
+Supervisor: Mohammad Almubaddel
 # Problem
 Solar panels located in desert regions and on rooftops are prone to accumulating dust and dirt, resulting in a notable 30% decrease in efficiency. The manual inspection and cleaning of these panels are indeed difficult and costly, as it involves significant time and labor to clean each panel individually. This obstacle presents a considerable challenge for the solar energy sector in maintaining the cleanliness and optimal performance of solar panels.
 # Data Description
